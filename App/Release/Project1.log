@@ -1,0 +1,50 @@
+﻿  Array.cpp
+  Matrix.cpp
+  Source.cpp
+C:\3 body problem 2d\final\Project1\Source.cpp(94,98): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\3 body problem 2d\final\Project1\Source.cpp(94,85): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\3 body problem 2d\final\Project1\Source.cpp(94,44): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\3 body problem 2d\final\Project1\Source.cpp(95,98): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\3 body problem 2d\final\Project1\Source.cpp(95,85): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\3 body problem 2d\final\Project1\Source.cpp(95,44): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\3 body problem 2d\final\Project1\Source.cpp(96,98): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\3 body problem 2d\final\Project1\Source.cpp(96,85): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\3 body problem 2d\final\Project1\Source.cpp(96,44): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\3 body problem 2d\final\Project1\Source.cpp(109,77): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\3 body problem 2d\final\Project1\Source.cpp(109,66): warning C4244: 'argument': conversion from '_Ty' to 'int32_t', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\3 body problem 2d\final\Project1\Source.cpp(109,35): warning C4244: 'argument': conversion from '_Ty' to 'int32_t', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\3 body problem 2d\final\Project1\Source.cpp(110,77): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\3 body problem 2d\final\Project1\Source.cpp(110,66): warning C4244: 'argument': conversion from '_Ty' to 'int32_t', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\3 body problem 2d\final\Project1\Source.cpp(110,35): warning C4244: 'argument': conversion from '_Ty' to 'int32_t', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\3 body problem 2d\final\Project1\Source.cpp(111,77): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+C:\3 body problem 2d\final\Project1\Source.cpp(111,66): warning C4244: 'argument': conversion from '_Ty' to 'int32_t', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\3 body problem 2d\final\Project1\Source.cpp(111,35): warning C4244: 'argument': conversion from '_Ty' to 'int32_t', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 888 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project1.vcxproj -> C:\3 body problem 2d\final\Project1\x64\Release\Three-body problem.exe
